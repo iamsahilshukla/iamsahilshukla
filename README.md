@@ -9,7 +9,7 @@
 
 I am a **backend-focused software engineer with 4+ years of experience** building and scaling high-performance systems. My work spans **fintech, edtech, and AI-powered platforms**, with deep expertise in **event-driven architectures, cloud-native systems, and RAG-based AI solutions**.
 
-I enjoy solving **scalability, performance, and system design problems**, and I am particularly interested in **LLM infrastructure, distributed systems, and backend architecture at scale**. :contentReference[oaicite:0]{index=0}
+I enjoy solving **scalability, performance, and system design problems**, and I am particularly interested in **LLM infrastructure, distributed systems, and backend architecture at scale**.
 
 ---
 
