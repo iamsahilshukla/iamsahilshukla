@@ -16,9 +16,8 @@ I enjoy solving **scalability, performance, and system design problems**, and I 
 ## 🛠️ Tech Stack
 
 ### **Languages**
-- JavaScript, TypeScript, Python  
-- Haskell, PureScript
-
+- JavaScript, TypeScript, Python
+  
 ### **Backend & Runtime**
 - Node.js, NestJS, Express, Bun  
 - REST APIs, GraphQL, WebSockets, SSE
