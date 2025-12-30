@@ -72,7 +72,7 @@ I enjoy solving **scalability, performance, and system design problems**, and I 
 
 - **Email:** iamsahilshukla@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/sahil-shukla  
-- **Portfolio:** (add when ready)
+- **Portfolio:** https://iamsahilshukla.github.io/portfolio/
 
 ---
 
